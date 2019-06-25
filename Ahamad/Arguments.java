@@ -10,8 +10,7 @@ public class Arguments {
 	    }
 	        else{
 	            for(String i : args)     
-	                System.out.print(i+" , ");
-	        
+	                System.out.print(i+" , ");	        
 	        }
 	        }
 	        }
